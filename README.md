@@ -1,33 +1,6 @@
-# element-admin
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 #### 
 - 后端用到了express，接口四个，分别是CRUD。 
 - 前端用到了vue框架，这可真是个好框架啊！
+- 两者结合形成了CRUD界面，通过HTTP请求就能连接服务器，进行数据的增删改查和展示。
+- 这个是网上常见的后台管理界面的基础，掌握之后就有一种前+后+数据库通畅的感觉。
